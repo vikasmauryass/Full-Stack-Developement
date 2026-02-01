@@ -1,0 +1,15 @@
+# Environment files
+.env
+.env.*
+.env.sample
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+dist/
+build/
+.out/
+.next/
+coverage/
